@@ -1,2 +1,2 @@
 # calculadora_IMC
-Calculadora de IMC em java script 
+Calculadora de IMC em java script Projeto Academico.
