@@ -1,5 +1,6 @@
 body {
-    background: linear-gradient(to bottom, #a8e6cf, #dcedc1);
+    background: url(frutas-y-verduras.jpeg);
+    background-repeat: space;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,9 +18,9 @@ body {
     padding: 20px;
     border-radius: 9px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background: linear-gradient(to bottom, #e9c28c, #acfedd);
+    background: linear-gradient(to bottom, #66ee78, #acfedd);
     width: 300px;
-    color: #837903;
+    color: #590914;
 }
 
 fieldset {
